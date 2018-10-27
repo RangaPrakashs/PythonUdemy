@@ -11,7 +11,7 @@ player_two = computerChoice
 rock = 1
 paper = 2
 scissors = 3
-wins = "None"
+wins = None
 choices= {1: "rock", 2: "paper", 3: "scissors"}
 draw = False
 
